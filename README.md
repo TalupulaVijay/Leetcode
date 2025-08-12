@@ -10,6 +10,7 @@ A Collection of LeetCode problems and my solutions.
 | [0014-longest-common-prefix](https://github.com/TalupulaVijay/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/TalupulaVijay/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/TalupulaVijay/Leetcode/tree/master/0035-search-insert-position) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/TalupulaVijay/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/TalupulaVijay/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/TalupulaVijay/Leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -47,4 +48,8 @@ A Collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/TalupulaVijay/Leetcode/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/TalupulaVijay/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
