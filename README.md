@@ -27,6 +27,7 @@ A Collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/TalupulaVijay/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/TalupulaVijay/Leetcode/tree/master/0067-add-binary) |
 ## Trie
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A Collection of LeetCode problems and my solutions.
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/TalupulaVijay/Leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/TalupulaVijay/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/TalupulaVijay/Leetcode/tree/master/0326-power-of-three) |
 ## Binary Search
@@ -44,6 +46,7 @@ A Collection of LeetCode problems and my solutions.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/TalupulaVijay/Leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/TalupulaVijay/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -57,4 +60,8 @@ A Collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/TalupulaVijay/Leetcode/tree/master/0326-power-of-three) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/TalupulaVijay/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
