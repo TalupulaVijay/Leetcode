@@ -35,6 +35,7 @@ A Collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/TalupulaVijay/Leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/TalupulaVijay/Leetcode/tree/master/0326-power-of-three) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,4 +53,8 @@ A Collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TalupulaVijay/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/TalupulaVijay/Leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
