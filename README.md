@@ -49,6 +49,7 @@ A Collection of LeetCode problems and my solutions.
 | [0069-sqrtx](https://github.com/TalupulaVijay/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/TalupulaVijay/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/TalupulaVijay/Leetcode/tree/master/0326-power-of-three) |
+| [0371-sum-of-two-integers](https://github.com/TalupulaVijay/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A Collection of LeetCode problems and my solutions.
 | ------- |
 | [0067-add-binary](https://github.com/TalupulaVijay/Leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/TalupulaVijay/Leetcode/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/TalupulaVijay/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Sorting
 |  |
 | ------- |
