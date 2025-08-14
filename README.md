@@ -80,6 +80,7 @@ A Collection of LeetCode problems and my solutions.
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/TalupulaVijay/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/TalupulaVijay/Leetcode/tree/master/0326-power-of-three) |
 ## Simulation
 |  |
@@ -102,4 +103,8 @@ A Collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/TalupulaVijay/Leetcode/tree/master/0455-assign-cookies) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/TalupulaVijay/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
