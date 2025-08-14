@@ -16,12 +16,14 @@ A Collection of LeetCode problems and my solutions.
 | [0268-missing-number](https://github.com/TalupulaVijay/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/TalupulaVijay/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/TalupulaVijay/Leetcode/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TalupulaVijay/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TalupulaVijay/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/TalupulaVijay/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/TalupulaVijay/Leetcode/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TalupulaVijay/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
