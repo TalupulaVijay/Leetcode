@@ -116,6 +116,7 @@ A Collection of LeetCode problems and my solutions.
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/TalupulaVijay/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/TalupulaVijay/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Number Theory
 |  |
