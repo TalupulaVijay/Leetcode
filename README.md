@@ -56,6 +56,7 @@ A Collection of LeetCode problems and my solutions.
 | [0258-add-digits](https://github.com/TalupulaVijay/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/TalupulaVijay/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/TalupulaVijay/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/TalupulaVijay/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/TalupulaVijay/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1013-fibonacci-number) |
 ## Binary Search
@@ -72,6 +73,7 @@ A Collection of LeetCode problems and my solutions.
 | [0231-power-of-two](https://github.com/TalupulaVijay/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/TalupulaVijay/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/TalupulaVijay/Leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/TalupulaVijay/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/TalupulaVijay/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Sorting
 |  |
@@ -94,6 +96,7 @@ A Collection of LeetCode problems and my solutions.
 | [0206-reverse-linked-list](https://github.com/TalupulaVijay/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/TalupulaVijay/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/TalupulaVijay/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/TalupulaVijay/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
