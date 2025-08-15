@@ -54,6 +54,7 @@ A Collection of LeetCode problems and my solutions.
 | [0268-missing-number](https://github.com/TalupulaVijay/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/TalupulaVijay/Leetcode/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/TalupulaVijay/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [1013-fibonacci-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,12 +83,14 @@ A Collection of LeetCode problems and my solutions.
 | [0053-maximum-subarray](https://github.com/TalupulaVijay/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TalupulaVijay/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/TalupulaVijay/Leetcode/tree/master/0338-counting-bits) |
+| [1013-fibonacci-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/TalupulaVijay/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/TalupulaVijay/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/TalupulaVijay/Leetcode/tree/master/0326-power-of-three) |
+| [1013-fibonacci-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -118,4 +121,8 @@ A Collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/TalupulaVijay/Leetcode/tree/master/0258-add-digits) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
