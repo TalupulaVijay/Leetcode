@@ -33,6 +33,7 @@ A Collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/TalupulaVijay/Leetcode/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/TalupulaVijay/Leetcode/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/TalupulaVijay/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/TalupulaVijay/Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/TalupulaVijay/Leetcode/tree/master/0455-assign-cookies) |
@@ -120,6 +121,7 @@ A Collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/TalupulaVijay/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/TalupulaVijay/Leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/TalupulaVijay/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/TalupulaVijay/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/TalupulaVijay/Leetcode/tree/master/0206-reverse-linked-list) |
