@@ -28,6 +28,7 @@ A Collection of LeetCode problems and my solutions.
 | [0160-intersection-of-two-linked-lists](https://github.com/TalupulaVijay/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/TalupulaVijay/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/TalupulaVijay/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/TalupulaVijay/Leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TalupulaVijay/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Two Pointers
 |  |
@@ -44,6 +45,7 @@ A Collection of LeetCode problems and my solutions.
 | [0014-longest-common-prefix](https://github.com/TalupulaVijay/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/TalupulaVijay/Leetcode/tree/master/0067-add-binary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/TalupulaVijay/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/TalupulaVijay/Leetcode/tree/master/0389-find-the-difference) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/TalupulaVijay/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Trie
 |  |
@@ -78,11 +80,13 @@ A Collection of LeetCode problems and my solutions.
 | [0338-counting-bits](https://github.com/TalupulaVijay/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/TalupulaVijay/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/TalupulaVijay/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/TalupulaVijay/Leetcode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TalupulaVijay/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/TalupulaVijay/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/TalupulaVijay/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/TalupulaVijay/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/TalupulaVijay/Leetcode/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
