@@ -47,6 +47,7 @@ A Collection of LeetCode problems and my solutions.
 | [0345-reverse-vowels-of-a-string](https://github.com/TalupulaVijay/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/TalupulaVijay/Leetcode/tree/master/0389-find-the-difference) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/TalupulaVijay/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3396-valid-word](https://github.com/TalupulaVijay/Leetcode/tree/master/3396-valid-word) |
 ## Trie
 |  |
 | ------- |
