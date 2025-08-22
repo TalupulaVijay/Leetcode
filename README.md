@@ -21,6 +21,7 @@ A Collection of LeetCode problems and my solutions.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TalupulaVijay/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/TalupulaVijay/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/TalupulaVijay/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/TalupulaVijay/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A Collection of LeetCode problems and my solutions.
 | [0268-missing-number](https://github.com/TalupulaVijay/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/TalupulaVijay/Leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TalupulaVijay/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/TalupulaVijay/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -163,4 +165,12 @@ A Collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/TalupulaVijay/Leetcode/tree/master/0867-new-21-game) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/TalupulaVijay/Leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/TalupulaVijay/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
