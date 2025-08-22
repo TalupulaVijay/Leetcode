@@ -23,6 +23,7 @@ A Collection of LeetCode problems and my solutions.
 | [0485-max-consecutive-ones](https://github.com/TalupulaVijay/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/TalupulaVijay/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TalupulaVijay/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/TalupulaVijay/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A Collection of LeetCode problems and my solutions.
 | [0628-maximum-product-of-three-numbers](https://github.com/TalupulaVijay/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0867-new-21-game](https://github.com/TalupulaVijay/Leetcode/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1013-fibonacci-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/TalupulaVijay/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1448-maximum-69-number) |
 ## Binary Search
 |  |
