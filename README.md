@@ -68,6 +68,7 @@ A Collection of LeetCode problems and my solutions.
 | [0258-add-digits](https://github.com/TalupulaVijay/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/TalupulaVijay/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/TalupulaVijay/Leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/TalupulaVijay/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/TalupulaVijay/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/TalupulaVijay/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/TalupulaVijay/Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -179,4 +180,12 @@ A Collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/TalupulaVijay/Leetcode/tree/master/0496-next-greater-element-i) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/TalupulaVijay/Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/TalupulaVijay/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
