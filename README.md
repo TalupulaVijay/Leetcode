@@ -82,6 +82,7 @@ A Collection of LeetCode problems and my solutions.
 | [0628-maximum-product-of-three-numbers](https://github.com/TalupulaVijay/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0867-new-21-game](https://github.com/TalupulaVijay/Leetcode/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/TalupulaVijay/Leetcode/tree/master/1086-divisor-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TalupulaVijay/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1448-maximum-69-number) |
 ## Binary Search
@@ -123,6 +124,7 @@ A Collection of LeetCode problems and my solutions.
 | [0392-is-subsequence](https://github.com/TalupulaVijay/Leetcode/tree/master/0392-is-subsequence) |
 | [0867-new-21-game](https://github.com/TalupulaVijay/Leetcode/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/TalupulaVijay/Leetcode/tree/master/1086-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -194,8 +196,10 @@ A Collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/TalupulaVijay/Leetcode/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/TalupulaVijay/Leetcode/tree/master/1086-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/TalupulaVijay/Leetcode/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/TalupulaVijay/Leetcode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
