@@ -25,6 +25,7 @@ A Collection of LeetCode problems and my solutions.
 | [0496-next-greater-element-i](https://github.com/TalupulaVijay/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TalupulaVijay/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/TalupulaVijay/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0792-binary-search](https://github.com/TalupulaVijay/Leetcode/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/TalupulaVijay/Leetcode/tree/master/0932-monotonic-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TalupulaVijay/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Hash Table
@@ -99,6 +100,7 @@ A Collection of LeetCode problems and my solutions.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TalupulaVijay/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/TalupulaVijay/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/TalupulaVijay/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0792-binary-search](https://github.com/TalupulaVijay/Leetcode/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
