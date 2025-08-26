@@ -99,6 +99,7 @@ A Collection of LeetCode problems and my solutions.
 | [0069-sqrtx](https://github.com/TalupulaVijay/Leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TalupulaVijay/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/TalupulaVijay/Leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/TalupulaVijay/Leetcode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/TalupulaVijay/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/TalupulaVijay/Leetcode/tree/master/0792-binary-search) |
 ## Bit Manipulation
@@ -214,4 +215,8 @@ A Collection of LeetCode problems and my solutions.
 | ------- |
 | [0292-nim-game](https://github.com/TalupulaVijay/Leetcode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/TalupulaVijay/Leetcode/tree/master/1086-divisor-game) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/TalupulaVijay/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
