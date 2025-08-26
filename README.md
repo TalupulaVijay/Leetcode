@@ -86,6 +86,7 @@ A Collection of LeetCode problems and my solutions.
 | [0371-sum-of-two-integers](https://github.com/TalupulaVijay/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/TalupulaVijay/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/TalupulaVijay/Leetcode/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/TalupulaVijay/Leetcode/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TalupulaVijay/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0867-new-21-game](https://github.com/TalupulaVijay/Leetcode/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1013-fibonacci-number) |
@@ -101,6 +102,7 @@ A Collection of LeetCode problems and my solutions.
 | [0268-missing-number](https://github.com/TalupulaVijay/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/TalupulaVijay/Leetcode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/TalupulaVijay/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/TalupulaVijay/Leetcode/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/TalupulaVijay/Leetcode/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
