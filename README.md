@@ -65,6 +65,7 @@ A Collection of LeetCode problems and my solutions.
 | [0392-is-subsequence](https://github.com/TalupulaVijay/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/TalupulaVijay/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/TalupulaVijay/Leetcode/tree/master/0415-add-strings) |
+| [0742-to-lower-case](https://github.com/TalupulaVijay/Leetcode/tree/master/0742-to-lower-case) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/TalupulaVijay/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/TalupulaVijay/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3396-valid-word](https://github.com/TalupulaVijay/Leetcode/tree/master/3396-valid-word) |
