@@ -71,6 +71,7 @@ A Collection of LeetCode problems and my solutions.
 | [0782-jewels-and-stones](https://github.com/TalupulaVijay/Leetcode/tree/master/0782-jewels-and-stones) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/TalupulaVijay/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/TalupulaVijay/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [3379-score-of-a-string](https://github.com/TalupulaVijay/Leetcode/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/TalupulaVijay/Leetcode/tree/master/3396-valid-word) |
 ## Trie
 |  |
