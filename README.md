@@ -101,6 +101,7 @@ A Collection of LeetCode problems and my solutions.
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TalupulaVijay/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1448-maximum-69-number) |
 | [2481-strictly-palindromic-number](https://github.com/TalupulaVijay/Leetcode/tree/master/2481-strictly-palindromic-number) |
+| [2491-smallest-even-multiple](https://github.com/TalupulaVijay/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/TalupulaVijay/Leetcode/tree/master/2556-convert-the-temperature) |
 ## Binary Search
 |  |
@@ -199,6 +200,7 @@ A Collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/TalupulaVijay/Leetcode/tree/master/0258-add-digits) |
+| [2491-smallest-even-multiple](https://github.com/TalupulaVijay/Leetcode/tree/master/2491-smallest-even-multiple) |
 ## Memoization
 |  |
 | ------- |
