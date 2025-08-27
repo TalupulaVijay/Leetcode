@@ -99,6 +99,7 @@ A Collection of LeetCode problems and my solutions.
 | [1086-divisor-game](https://github.com/TalupulaVijay/Leetcode/tree/master/1086-divisor-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TalupulaVijay/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1448-maximum-69-number) |
+| [2556-convert-the-temperature](https://github.com/TalupulaVijay/Leetcode/tree/master/2556-convert-the-temperature) |
 ## Binary Search
 |  |
 | ------- |
