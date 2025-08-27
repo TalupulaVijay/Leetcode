@@ -12,6 +12,7 @@ A Collection of LeetCode problems and my solutions.
 | [0035-search-insert-position](https://github.com/TalupulaVijay/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/TalupulaVijay/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/TalupulaVijay/Leetcode/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/TalupulaVijay/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TalupulaVijay/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TalupulaVijay/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/TalupulaVijay/Leetcode/tree/master/0169-majority-element) |
@@ -133,6 +134,7 @@ A Collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/TalupulaVijay/Leetcode/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/TalupulaVijay/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TalupulaVijay/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/TalupulaVijay/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/TalupulaVijay/Leetcode/tree/master/0392-is-subsequence) |
