@@ -10,6 +10,7 @@ A Collection of LeetCode problems and my solutions.
 | [0014-longest-common-prefix](https://github.com/TalupulaVijay/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/TalupulaVijay/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/TalupulaVijay/Leetcode/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/TalupulaVijay/Leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/TalupulaVijay/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/TalupulaVijay/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/TalupulaVijay/Leetcode/tree/master/0118-pascals-triangle) |
@@ -246,4 +247,8 @@ A Collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [1127-last-stone-weight](https://github.com/TalupulaVijay/Leetcode/tree/master/1127-last-stone-weight) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/TalupulaVijay/Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
