@@ -30,6 +30,7 @@ A Collection of LeetCode problems and my solutions.
 | [0748-largest-number-at-least-twice-of-others](https://github.com/TalupulaVijay/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/TalupulaVijay/Leetcode/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/TalupulaVijay/Leetcode/tree/master/0932-monotonic-array) |
+| [1127-last-stone-weight](https://github.com/TalupulaVijay/Leetcode/tree/master/1127-last-stone-weight) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TalupulaVijay/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/TalupulaVijay/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 ## Hash Table
@@ -241,4 +242,8 @@ A Collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/TalupulaVijay/Leetcode/tree/master/0278-first-bad-version) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/TalupulaVijay/Leetcode/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
