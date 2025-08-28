@@ -34,6 +34,7 @@ A Collection of LeetCode problems and my solutions.
 | [1127-last-stone-weight](https://github.com/TalupulaVijay/Leetcode/tree/master/1127-last-stone-weight) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TalupulaVijay/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2058-concatenation-of-array](https://github.com/TalupulaVijay/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/TalupulaVijay/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 ## Hash Table
 |  |
@@ -177,6 +178,7 @@ A Collection of LeetCode problems and my solutions.
 | [0258-add-digits](https://github.com/TalupulaVijay/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/TalupulaVijay/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/TalupulaVijay/Leetcode/tree/master/0415-add-strings) |
+| [2058-concatenation-of-array](https://github.com/TalupulaVijay/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Divide and Conquer
 |  |
 | ------- |
