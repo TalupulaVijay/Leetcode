@@ -61,6 +61,7 @@ A Collection of LeetCode problems and my solutions.
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/TalupulaVijay/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/TalupulaVijay/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/TalupulaVijay/Leetcode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/TalupulaVijay/Leetcode/tree/master/0205-isomorphic-strings) |
