@@ -47,6 +47,7 @@ A Collection of LeetCode problems and my solutions.
 | [0268-missing-number](https://github.com/TalupulaVijay/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/TalupulaVijay/Leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TalupulaVijay/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/TalupulaVijay/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/TalupulaVijay/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/TalupulaVijay/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0965-unique-email-addresses](https://github.com/TalupulaVijay/Leetcode/tree/master/0965-unique-email-addresses) |
@@ -77,6 +78,7 @@ A Collection of LeetCode problems and my solutions.
 | [0392-is-subsequence](https://github.com/TalupulaVijay/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/TalupulaVijay/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/TalupulaVijay/Leetcode/tree/master/0415-add-strings) |
+| [0451-sort-characters-by-frequency](https://github.com/TalupulaVijay/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0742-to-lower-case](https://github.com/TalupulaVijay/Leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/TalupulaVijay/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0965-unique-email-addresses](https://github.com/TalupulaVijay/Leetcode/tree/master/0965-unique-email-addresses) |
@@ -148,6 +150,7 @@ A Collection of LeetCode problems and my solutions.
 | [0268-missing-number](https://github.com/TalupulaVijay/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/TalupulaVijay/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/TalupulaVijay/Leetcode/tree/master/0414-third-maximum-number) |
+| [0451-sort-characters-by-frequency](https://github.com/TalupulaVijay/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/TalupulaVijay/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TalupulaVijay/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/TalupulaVijay/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -192,6 +195,7 @@ A Collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TalupulaVijay/Leetcode/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/TalupulaVijay/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2427-first-letter-to-appear-twice](https://github.com/TalupulaVijay/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Prefix Sum
 |  |
@@ -254,6 +258,7 @@ A Collection of LeetCode problems and my solutions.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/TalupulaVijay/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1127-last-stone-weight](https://github.com/TalupulaVijay/Leetcode/tree/master/1127-last-stone-weight) |
 ## Backtracking
 |  |
@@ -263,4 +268,8 @@ A Collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/TalupulaVijay/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
