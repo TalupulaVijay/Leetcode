@@ -41,6 +41,7 @@ A Collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TalupulaVijay/Leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/TalupulaVijay/Leetcode/tree/master/0012-integer-to-roman) |
 | [0160-intersection-of-two-linked-lists](https://github.com/TalupulaVijay/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/TalupulaVijay/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/TalupulaVijay/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -70,6 +71,7 @@ A Collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/TalupulaVijay/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/TalupulaVijay/Leetcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/TalupulaVijay/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/TalupulaVijay/Leetcode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/TalupulaVijay/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -96,6 +98,7 @@ A Collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/TalupulaVijay/Leetcode/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/TalupulaVijay/Leetcode/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/TalupulaVijay/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/TalupulaVijay/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/TalupulaVijay/Leetcode/tree/master/0231-power-of-two) |
