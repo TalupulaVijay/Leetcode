@@ -82,6 +82,7 @@ A Collection of LeetCode problems and my solutions.
 | [0415-add-strings](https://github.com/TalupulaVijay/Leetcode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/TalupulaVijay/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/TalupulaVijay/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0520-detect-capital](https://github.com/TalupulaVijay/Leetcode/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/TalupulaVijay/Leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/TalupulaVijay/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0965-unique-email-addresses](https://github.com/TalupulaVijay/Leetcode/tree/master/0965-unique-email-addresses) |
