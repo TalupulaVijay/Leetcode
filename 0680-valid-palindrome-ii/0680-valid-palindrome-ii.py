@@ -12,7 +12,7 @@ class Solution(object):
 
         while left < right:
             if s[left] != s[right]:
-                # either skip left char OR skip right char
+                
                 return is_palindrome(left + 1, right) or is_palindrome(left, right - 1)
             left += 1
             right -= 1
