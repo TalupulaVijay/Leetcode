@@ -139,6 +139,7 @@ A Collection of LeetCode problems and my solutions.
 | [0867-new-21-game](https://github.com/TalupulaVijay/Leetcode/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/TalupulaVijay/Leetcode/tree/master/1086-divisor-game) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TalupulaVijay/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TalupulaVijay/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1448-maximum-69-number) |
 | [2481-strictly-palindromic-number](https://github.com/TalupulaVijay/Leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -250,6 +251,7 @@ A Collection of LeetCode problems and my solutions.
 | [0083-remove-duplicates-from-sorted-list](https://github.com/TalupulaVijay/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/TalupulaVijay/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/TalupulaVijay/Leetcode/tree/master/0206-reverse-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TalupulaVijay/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Number Theory
 |  |
 | ------- |
