@@ -28,6 +28,7 @@ A Collection of LeetCode problems and my solutions.
 | [0455-assign-cookies](https://github.com/TalupulaVijay/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/TalupulaVijay/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/TalupulaVijay/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/TalupulaVijay/Leetcode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TalupulaVijay/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/TalupulaVijay/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/TalupulaVijay/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -182,6 +183,7 @@ A Collection of LeetCode problems and my solutions.
 | [0414-third-maximum-number](https://github.com/TalupulaVijay/Leetcode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/TalupulaVijay/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/TalupulaVijay/Leetcode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/TalupulaVijay/Leetcode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TalupulaVijay/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/TalupulaVijay/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -299,6 +301,7 @@ A Collection of LeetCode problems and my solutions.
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/TalupulaVijay/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/TalupulaVijay/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/TalupulaVijay/Leetcode/tree/master/0506-relative-ranks) |
 | [1127-last-stone-weight](https://github.com/TalupulaVijay/Leetcode/tree/master/1127-last-stone-weight) |
 ## Backtracking
 |  |
