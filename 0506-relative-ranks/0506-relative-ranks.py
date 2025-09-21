@@ -12,5 +12,5 @@ class Solution:
                 res[idx]="Bronze Medal"
             else:
                 res[idx]=str(i+1) 
-        return res                  
+        return res                
         
