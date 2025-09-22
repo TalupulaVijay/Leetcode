@@ -30,6 +30,7 @@ A Collection of LeetCode problems and my solutions.
 | [0496-next-greater-element-i](https://github.com/TalupulaVijay/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/TalupulaVijay/Leetcode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TalupulaVijay/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/TalupulaVijay/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/TalupulaVijay/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/TalupulaVijay/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/TalupulaVijay/Leetcode/tree/master/0792-binary-search) |
@@ -268,6 +269,7 @@ A Collection of LeetCode problems and my solutions.
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/TalupulaVijay/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0867-new-21-game](https://github.com/TalupulaVijay/Leetcode/tree/master/0867-new-21-game) |
 ## Probability and Statistics
 |  |
