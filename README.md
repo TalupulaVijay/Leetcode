@@ -333,19 +333,23 @@ A Collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/TalupulaVijay/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/TalupulaVijay/Leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/TalupulaVijay/Leetcode/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/TalupulaVijay/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/TalupulaVijay/Leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/TalupulaVijay/Leetcode/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/TalupulaVijay/Leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/TalupulaVijay/Leetcode/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/TalupulaVijay/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/TalupulaVijay/Leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/TalupulaVijay/Leetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
