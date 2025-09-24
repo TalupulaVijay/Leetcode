@@ -328,4 +328,20 @@ A Collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/TalupulaVijay/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/TalupulaVijay/Leetcode/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/TalupulaVijay/Leetcode/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/TalupulaVijay/Leetcode/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/TalupulaVijay/Leetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
