@@ -284,6 +284,7 @@ A Collection of LeetCode problems and my solutions.
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/TalupulaVijay/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/TalupulaVijay/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -331,10 +332,12 @@ A Collection of LeetCode problems and my solutions.
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/TalupulaVijay/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/TalupulaVijay/Leetcode/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/TalupulaVijay/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/TalupulaVijay/Leetcode/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
@@ -343,5 +346,6 @@ A Collection of LeetCode problems and my solutions.
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/TalupulaVijay/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/TalupulaVijay/Leetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
