@@ -285,6 +285,7 @@ A Collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/TalupulaVijay/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/TalupulaVijay/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/TalupulaVijay/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -335,12 +336,14 @@ A Collection of LeetCode problems and my solutions.
 | [0094-binary-tree-inorder-traversal](https://github.com/TalupulaVijay/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/TalupulaVijay/Leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/TalupulaVijay/Leetcode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/TalupulaVijay/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/TalupulaVijay/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/TalupulaVijay/Leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/TalupulaVijay/Leetcode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/TalupulaVijay/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -352,4 +355,5 @@ A Collection of LeetCode problems and my solutions.
 | [0094-binary-tree-inorder-traversal](https://github.com/TalupulaVijay/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/TalupulaVijay/Leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/TalupulaVijay/Leetcode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/TalupulaVijay/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
