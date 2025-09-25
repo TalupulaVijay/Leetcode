@@ -288,6 +288,7 @@ A Collection of LeetCode problems and my solutions.
 | [0144-binary-tree-preorder-traversal](https://github.com/TalupulaVijay/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TalupulaVijay/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/TalupulaVijay/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/TalupulaVijay/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -340,6 +341,7 @@ A Collection of LeetCode problems and my solutions.
 | [0112-path-sum](https://github.com/TalupulaVijay/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TalupulaVijay/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TalupulaVijay/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/TalupulaVijay/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -349,6 +351,7 @@ A Collection of LeetCode problems and my solutions.
 | [0112-path-sum](https://github.com/TalupulaVijay/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TalupulaVijay/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TalupulaVijay/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/TalupulaVijay/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
