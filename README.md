@@ -13,6 +13,7 @@ A Collection of LeetCode problems and my solutions.
 | [0046-permutations](https://github.com/TalupulaVijay/Leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/TalupulaVijay/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/TalupulaVijay/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/TalupulaVijay/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/TalupulaVijay/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/TalupulaVijay/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TalupulaVijay/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -73,6 +74,7 @@ A Collection of LeetCode problems and my solutions.
 | [0061-rotate-list](https://github.com/TalupulaVijay/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/TalupulaVijay/Leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/TalupulaVijay/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/TalupulaVijay/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/TalupulaVijay/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/TalupulaVijay/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/TalupulaVijay/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -184,6 +186,7 @@ A Collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/TalupulaVijay/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/TalupulaVijay/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/TalupulaVijay/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TalupulaVijay/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/TalupulaVijay/Leetcode/tree/master/0268-missing-number) |
