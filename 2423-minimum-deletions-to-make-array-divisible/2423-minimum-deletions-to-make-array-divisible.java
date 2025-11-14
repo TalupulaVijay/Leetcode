@@ -1,5 +1,4 @@
-class Solution {   
-    // Helper method to find GCD
+class Solution {  
     private int gcd(int a, int b) {
         return b == 0 ? a : gcd(b, a % b);
     }
@@ -9,9 +8,7 @@ class Solution {
         for (int i = 1; i < numsDivide.length; i++) {
             g = gcd(g, numsDivide[i]);
         }
-    
         Arrays.sort(nums);
-        
         for (int i = 0; i < nums.length; i++) {
             if (g % nums[i] == 0) {
                 return i;   
