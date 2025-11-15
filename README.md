@@ -411,4 +411,8 @@ A Collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/TalupulaVijay/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/TalupulaVijay/Leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
