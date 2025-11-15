@@ -415,4 +415,5 @@ A Collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/TalupulaVijay/Leetcode/tree/master/0584-find-customer-referee) |
+| [1258-article-views-i](https://github.com/TalupulaVijay/Leetcode/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
