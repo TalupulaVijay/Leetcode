@@ -425,6 +425,7 @@ A Collection of LeetCode problems and my solutions.
 | [0596-classes-with-at-least-5-students](https://github.com/TalupulaVijay/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/TalupulaVijay/Leetcode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/TalupulaVijay/Leetcode/tree/master/0620-not-boring-movies) |
+| [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/TalupulaVijay/Leetcode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1153-product-sales-analysis-i](https://github.com/TalupulaVijay/Leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1179-game-play-analysis-i](https://github.com/TalupulaVijay/Leetcode/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/TalupulaVijay/Leetcode/tree/master/1258-article-views-i) |
