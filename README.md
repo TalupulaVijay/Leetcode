@@ -75,6 +75,7 @@ A Collection of LeetCode problems and my solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/TalupulaVijay/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/TalupulaVijay/Leetcode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/TalupulaVijay/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/TalupulaVijay/Leetcode/tree/master/0075-sort-colors) |
@@ -98,6 +99,7 @@ A Collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TalupulaVijay/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/TalupulaVijay/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/TalupulaVijay/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/TalupulaVijay/Leetcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/TalupulaVijay/Leetcode/tree/master/0014-longest-common-prefix) |
@@ -214,6 +216,7 @@ A Collection of LeetCode problems and my solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/TalupulaVijay/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/TalupulaVijay/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/TalupulaVijay/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/TalupulaVijay/Leetcode/tree/master/0119-pascals-triangle-ii) |
