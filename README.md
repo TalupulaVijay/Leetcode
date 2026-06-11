@@ -22,6 +22,7 @@ A Collection of LeetCode problems and my solutions.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TalupulaVijay/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TalupulaVijay/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/TalupulaVijay/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/TalupulaVijay/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TalupulaVijay/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/TalupulaVijay/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/TalupulaVijay/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -86,6 +87,7 @@ A Collection of LeetCode problems and my solutions.
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/TalupulaVijay/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/TalupulaVijay/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/TalupulaVijay/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/TalupulaVijay/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/TalupulaVijay/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/TalupulaVijay/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/TalupulaVijay/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -147,6 +149,7 @@ A Collection of LeetCode problems and my solutions.
 | [0012-integer-to-roman](https://github.com/TalupulaVijay/Leetcode/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/TalupulaVijay/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/TalupulaVijay/Leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/TalupulaVijay/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/TalupulaVijay/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/TalupulaVijay/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/TalupulaVijay/Leetcode/tree/master/0263-ugly-number) |
