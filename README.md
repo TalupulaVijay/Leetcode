@@ -11,6 +11,7 @@ A Collection of LeetCode problems and my solutions.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TalupulaVijay/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TalupulaVijay/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/TalupulaVijay/Leetcode/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/TalupulaVijay/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/TalupulaVijay/Leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/TalupulaVijay/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/TalupulaVijay/Leetcode/tree/master/0055-jump-game) |
@@ -227,6 +228,7 @@ A Collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/TalupulaVijay/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/TalupulaVijay/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/TalupulaVijay/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/TalupulaVijay/Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/TalupulaVijay/Leetcode/tree/master/0118-pascals-triangle) |
@@ -285,6 +287,7 @@ A Collection of LeetCode problems and my solutions.
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/TalupulaVijay/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/TalupulaVijay/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TalupulaVijay/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/TalupulaVijay/Leetcode/tree/master/0316-remove-duplicate-letters) |
