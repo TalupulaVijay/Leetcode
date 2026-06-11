@@ -13,6 +13,7 @@ A Collection of LeetCode problems and my solutions.
 | [0035-search-insert-position](https://github.com/TalupulaVijay/Leetcode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/TalupulaVijay/Leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/TalupulaVijay/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/TalupulaVijay/Leetcode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/TalupulaVijay/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/TalupulaVijay/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/TalupulaVijay/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -227,6 +228,7 @@ A Collection of LeetCode problems and my solutions.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/TalupulaVijay/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/TalupulaVijay/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/TalupulaVijay/Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/TalupulaVijay/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/TalupulaVijay/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TalupulaVijay/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -283,6 +285,7 @@ A Collection of LeetCode problems and my solutions.
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/TalupulaVijay/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TalupulaVijay/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/TalupulaVijay/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/TalupulaVijay/Leetcode/tree/master/0409-longest-palindrome) |
