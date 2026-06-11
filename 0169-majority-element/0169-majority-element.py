@@ -1,6 +1,5 @@
-
-class Solution(object):
-    def majorityElement(self, nums):
+class Solution:
+    def majorityElement(self, nums: List[int]) -> int:
         freq={}
         for i in nums:
             if i in freq:
@@ -8,6 +7,5 @@ class Solution(object):
             else:
                 freq[i]=1
         m=max(freq,key=freq.get) 
-        return m       
-
+        return m        
         
