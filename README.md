@@ -87,6 +87,7 @@ A Collection of LeetCode problems and my solutions.
 | [0005-longest-palindromic-substring](https://github.com/TalupulaVijay/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TalupulaVijay/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TalupulaVijay/Leetcode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TalupulaVijay/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/TalupulaVijay/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/TalupulaVijay/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/TalupulaVijay/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -116,6 +117,7 @@ A Collection of LeetCode problems and my solutions.
 | [0012-integer-to-roman](https://github.com/TalupulaVijay/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/TalupulaVijay/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/TalupulaVijay/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TalupulaVijay/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/TalupulaVijay/Leetcode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/TalupulaVijay/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0316-remove-duplicate-letters](https://github.com/TalupulaVijay/Leetcode/tree/master/0316-remove-duplicate-letters) |
@@ -466,4 +468,8 @@ A Collection of LeetCode problems and my solutions.
 | [1258-article-views-i](https://github.com/TalupulaVijay/Leetcode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/TalupulaVijay/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/TalupulaVijay/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TalupulaVijay/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
