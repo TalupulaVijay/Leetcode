@@ -52,6 +52,7 @@ A Collection of LeetCode problems and my solutions.
 | [1127-last-stone-weight](https://github.com/TalupulaVijay/Leetcode/tree/master/1127-last-stone-weight) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TalupulaVijay/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1539-kth-missing-positive-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2058-concatenation-of-array](https://github.com/TalupulaVijay/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/TalupulaVijay/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/TalupulaVijay/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
@@ -204,6 +205,7 @@ A Collection of LeetCode problems and my solutions.
 | [0441-arranging-coins](https://github.com/TalupulaVijay/Leetcode/tree/master/0441-arranging-coins) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/TalupulaVijay/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/TalupulaVijay/Leetcode/tree/master/0792-binary-search) |
+| [1539-kth-missing-positive-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
 | ------- |
