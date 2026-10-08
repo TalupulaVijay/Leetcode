@@ -56,6 +56,7 @@ A Collection of LeetCode problems and my solutions.
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/TalupulaVijay/Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1480-running-sum-of-1d-array](https://github.com/TalupulaVijay/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/TalupulaVijay/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1539-kth-missing-positive-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2058-concatenation-of-array](https://github.com/TalupulaVijay/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/TalupulaVijay/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -245,6 +246,7 @@ A Collection of LeetCode problems and my solutions.
 | [0748-largest-number-at-least-twice-of-others](https://github.com/TalupulaVijay/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/TalupulaVijay/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/TalupulaVijay/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## Dynamic Programming
 |  |
