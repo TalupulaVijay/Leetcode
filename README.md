@@ -60,6 +60,7 @@ A Collection of LeetCode problems and my solutions.
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/TalupulaVijay/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/TalupulaVijay/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1929-concatenation-of-array](https://github.com/TalupulaVijay/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/TalupulaVijay/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/TalupulaVijay/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/TalupulaVijay/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
@@ -294,6 +295,7 @@ A Collection of LeetCode problems and my solutions.
 | [0415-add-strings](https://github.com/TalupulaVijay/Leetcode/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/TalupulaVijay/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1389-create-target-array-in-the-given-order](https://github.com/TalupulaVijay/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
+| [1929-concatenation-of-array](https://github.com/TalupulaVijay/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/TalupulaVijay/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/TalupulaVijay/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Divide and Conquer
