@@ -201,6 +201,7 @@ A Collection of LeetCode problems and my solutions.
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TalupulaVijay/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TalupulaVijay/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1448-maximum-69-number) |
+| [1492-the-kth-factor-of-n](https://github.com/TalupulaVijay/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/TalupulaVijay/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/TalupulaVijay/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TalupulaVijay/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -366,6 +367,7 @@ A Collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/TalupulaVijay/Leetcode/tree/master/0258-add-digits) |
+| [1492-the-kth-factor-of-n](https://github.com/TalupulaVijay/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/TalupulaVijay/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TalupulaVijay/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/TalupulaVijay/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
@@ -529,6 +531,7 @@ A Collection of LeetCode problems and my solutions.
 ## Prime Factorization
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/TalupulaVijay/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/TalupulaVijay/Leetcode/tree/master/1952-three-divisors) |
 ## Sieve Theory
 |  |
