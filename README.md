@@ -69,6 +69,7 @@ A Collection of LeetCode problems and my solutions.
 | [2574-left-and-right-sum-differences](https://github.com/TalupulaVijay/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2614-prime-in-diagonal](https://github.com/TalupulaVijay/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/TalupulaVijay/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/TalupulaVijay/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A Collection of LeetCode problems and my solutions.
 | [1512-number-of-good-pairs](https://github.com/TalupulaVijay/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/TalupulaVijay/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2427-first-letter-to-appear-twice](https://github.com/TalupulaVijay/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/TalupulaVijay/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A Collection of LeetCode problems and my solutions.
 | [2614-prime-in-diagonal](https://github.com/TalupulaVijay/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/TalupulaVijay/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/TalupulaVijay/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/TalupulaVijay/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -325,6 +328,7 @@ A Collection of LeetCode problems and my solutions.
 | [0920-uncommon-words-from-two-sentences](https://github.com/TalupulaVijay/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1512-number-of-good-pairs](https://github.com/TalupulaVijay/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/TalupulaVijay/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/TalupulaVijay/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -368,6 +372,7 @@ A Collection of LeetCode problems and my solutions.
 | [2427-number-of-common-factors](https://github.com/TalupulaVijay/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2491-smallest-even-multiple](https://github.com/TalupulaVijay/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2614-prime-in-diagonal](https://github.com/TalupulaVijay/Leetcode/tree/master/2614-prime-in-diagonal) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/TalupulaVijay/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Memoization
 |  |
 | ------- |
