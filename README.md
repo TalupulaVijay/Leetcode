@@ -198,6 +198,7 @@ A Collection of LeetCode problems and my solutions.
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TalupulaVijay/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1448-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/TalupulaVijay/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1952-three-divisors](https://github.com/TalupulaVijay/Leetcode/tree/master/1952-three-divisors) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/TalupulaVijay/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2481-strictly-palindromic-number](https://github.com/TalupulaVijay/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/TalupulaVijay/Leetcode/tree/master/2491-smallest-even-multiple) |
@@ -356,6 +357,7 @@ A Collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/TalupulaVijay/Leetcode/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/TalupulaVijay/Leetcode/tree/master/1952-three-divisors) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/TalupulaVijay/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2491-smallest-even-multiple](https://github.com/TalupulaVijay/Leetcode/tree/master/2491-smallest-even-multiple) |
 ## Memoization
@@ -505,4 +507,16 @@ A Collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TalupulaVijay/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/TalupulaVijay/Leetcode/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/TalupulaVijay/Leetcode/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/TalupulaVijay/Leetcode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
