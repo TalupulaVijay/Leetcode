@@ -67,6 +67,7 @@ A Collection of LeetCode problems and my solutions.
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/TalupulaVijay/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2553-separate-the-digits-in-an-array](https://github.com/TalupulaVijay/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/TalupulaVijay/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2614-prime-in-diagonal](https://github.com/TalupulaVijay/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/TalupulaVijay/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
 |  |
@@ -206,6 +207,7 @@ A Collection of LeetCode problems and my solutions.
 | [2481-strictly-palindromic-number](https://github.com/TalupulaVijay/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/TalupulaVijay/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/TalupulaVijay/Leetcode/tree/master/2556-convert-the-temperature) |
+| [2614-prime-in-diagonal](https://github.com/TalupulaVijay/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/TalupulaVijay/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/TalupulaVijay/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Search
@@ -365,6 +367,7 @@ A Collection of LeetCode problems and my solutions.
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/TalupulaVijay/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2427-number-of-common-factors](https://github.com/TalupulaVijay/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2491-smallest-even-multiple](https://github.com/TalupulaVijay/Leetcode/tree/master/2491-smallest-even-multiple) |
+| [2614-prime-in-diagonal](https://github.com/TalupulaVijay/Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Memoization
 |  |
 | ------- |
@@ -487,6 +490,7 @@ A Collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/TalupulaVijay/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [2614-prime-in-diagonal](https://github.com/TalupulaVijay/Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Database
 |  |
 | ------- |
