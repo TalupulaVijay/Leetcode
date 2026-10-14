@@ -209,6 +209,7 @@ A Collection of LeetCode problems and my solutions.
 | [2427-number-of-common-factors](https://github.com/TalupulaVijay/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2481-strictly-palindromic-number](https://github.com/TalupulaVijay/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/TalupulaVijay/Leetcode/tree/master/2491-smallest-even-multiple) |
+| [2523-closest-prime-numbers-in-range](https://github.com/TalupulaVijay/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2556-convert-the-temperature](https://github.com/TalupulaVijay/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2614-prime-in-diagonal](https://github.com/TalupulaVijay/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/TalupulaVijay/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -373,6 +374,7 @@ A Collection of LeetCode problems and my solutions.
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/TalupulaVijay/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2427-number-of-common-factors](https://github.com/TalupulaVijay/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2491-smallest-even-multiple](https://github.com/TalupulaVijay/Leetcode/tree/master/2491-smallest-even-multiple) |
+| [2523-closest-prime-numbers-in-range](https://github.com/TalupulaVijay/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2614-prime-in-diagonal](https://github.com/TalupulaVijay/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/TalupulaVijay/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Memoization
@@ -537,6 +539,7 @@ A Collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/TalupulaVijay/Leetcode/tree/master/1952-three-divisors) |
+| [2523-closest-prime-numbers-in-range](https://github.com/TalupulaVijay/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -547,4 +550,12 @@ A Collection of LeetCode problems and my solutions.
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TalupulaVijay/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/TalupulaVijay/Leetcode/tree/master/2427-number-of-common-factors) |
+## Primality Test
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/TalupulaVijay/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/TalupulaVijay/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
