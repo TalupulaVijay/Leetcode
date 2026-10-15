@@ -61,6 +61,7 @@ A Collection of LeetCode problems and my solutions.
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/TalupulaVijay/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/TalupulaVijay/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1672-richest-customer-wealth](https://github.com/TalupulaVijay/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/TalupulaVijay/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TalupulaVijay/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2058-concatenation-of-array](https://github.com/TalupulaVijay/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -502,6 +503,7 @@ A Collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/TalupulaVijay/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1672-richest-customer-wealth](https://github.com/TalupulaVijay/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2614-prime-in-diagonal](https://github.com/TalupulaVijay/Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Database
 |  |
