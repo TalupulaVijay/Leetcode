@@ -54,6 +54,7 @@ A Collection of LeetCode problems and my solutions.
 | [1127-last-stone-weight](https://github.com/TalupulaVijay/Leetcode/tree/master/1127-last-stone-weight) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/TalupulaVijay/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/TalupulaVijay/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TalupulaVijay/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/TalupulaVijay/Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1480-running-sum-of-1d-array](https://github.com/TalupulaVijay/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -97,6 +98,7 @@ A Collection of LeetCode problems and my solutions.
 | [0920-uncommon-words-from-two-sentences](https://github.com/TalupulaVijay/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0965-unique-email-addresses](https://github.com/TalupulaVijay/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/TalupulaVijay/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/TalupulaVijay/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/TalupulaVijay/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -331,6 +333,7 @@ A Collection of LeetCode problems and my solutions.
 | [0451-sort-characters-by-frequency](https://github.com/TalupulaVijay/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0837-most-common-word](https://github.com/TalupulaVijay/Leetcode/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TalupulaVijay/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/TalupulaVijay/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/TalupulaVijay/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/TalupulaVijay/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/TalupulaVijay/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
