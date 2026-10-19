@@ -52,6 +52,7 @@ A Collection of LeetCode problems and my solutions.
 | [0932-monotonic-array](https://github.com/TalupulaVijay/Leetcode/tree/master/0932-monotonic-array) |
 | [0965-unique-email-addresses](https://github.com/TalupulaVijay/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1127-last-stone-weight](https://github.com/TalupulaVijay/Leetcode/tree/master/1127-last-stone-weight) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/TalupulaVijay/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/TalupulaVijay/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/TalupulaVijay/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -249,6 +250,7 @@ A Collection of LeetCode problems and my solutions.
 | [0371-sum-of-two-integers](https://github.com/TalupulaVijay/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/TalupulaVijay/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/TalupulaVijay/Leetcode/tree/master/0645-set-mismatch) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/TalupulaVijay/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2427-first-letter-to-appear-twice](https://github.com/TalupulaVijay/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/TalupulaVijay/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Sorting
@@ -270,6 +272,7 @@ A Collection of LeetCode problems and my solutions.
 | [0628-maximum-product-of-three-numbers](https://github.com/TalupulaVijay/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/TalupulaVijay/Leetcode/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/TalupulaVijay/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/TalupulaVijay/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/TalupulaVijay/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -333,6 +336,7 @@ A Collection of LeetCode problems and my solutions.
 | [0451-sort-characters-by-frequency](https://github.com/TalupulaVijay/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0837-most-common-word](https://github.com/TalupulaVijay/Leetcode/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TalupulaVijay/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/TalupulaVijay/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/TalupulaVijay/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/TalupulaVijay/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/TalupulaVijay/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
