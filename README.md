@@ -46,6 +46,7 @@ A Collection of LeetCode problems and my solutions.
 | [0643-maximum-average-subarray-i](https://github.com/TalupulaVijay/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/TalupulaVijay/Leetcode/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/TalupulaVijay/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0724-find-pivot-index](https://github.com/TalupulaVijay/Leetcode/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/TalupulaVijay/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/TalupulaVijay/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/TalupulaVijay/Leetcode/tree/master/0792-binary-search) |
@@ -347,6 +348,7 @@ A Collection of LeetCode problems and my solutions.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/TalupulaVijay/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/TalupulaVijay/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/TalupulaVijay/Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/TalupulaVijay/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/TalupulaVijay/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Greedy
