@@ -71,6 +71,7 @@ A Collection of LeetCode problems and my solutions.
 | [2058-concatenation-of-array](https://github.com/TalupulaVijay/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/TalupulaVijay/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/TalupulaVijay/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [2540-minimum-common-value](https://github.com/TalupulaVijay/Leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/TalupulaVijay/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/TalupulaVijay/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2614-prime-in-diagonal](https://github.com/TalupulaVijay/Leetcode/tree/master/2614-prime-in-diagonal) |
@@ -106,6 +107,7 @@ A Collection of LeetCode problems and my solutions.
 | [1512-number-of-good-pairs](https://github.com/TalupulaVijay/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/TalupulaVijay/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2427-first-letter-to-appear-twice](https://github.com/TalupulaVijay/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2540-minimum-common-value](https://github.com/TalupulaVijay/Leetcode/tree/master/2540-minimum-common-value) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/TalupulaVijay/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
 |  |
@@ -135,6 +137,7 @@ A Collection of LeetCode problems and my solutions.
 | [0953-reverse-only-letters](https://github.com/TalupulaVijay/Leetcode/tree/master/0953-reverse-only-letters) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/TalupulaVijay/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2481-strictly-palindromic-number](https://github.com/TalupulaVijay/Leetcode/tree/master/2481-strictly-palindromic-number) |
+| [2540-minimum-common-value](https://github.com/TalupulaVijay/Leetcode/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -239,6 +242,7 @@ A Collection of LeetCode problems and my solutions.
 | [0745-find-smallest-letter-greater-than-target](https://github.com/TalupulaVijay/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/TalupulaVijay/Leetcode/tree/master/0792-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [2540-minimum-common-value](https://github.com/TalupulaVijay/Leetcode/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |
 | ------- |
