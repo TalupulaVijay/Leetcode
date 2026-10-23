@@ -178,6 +178,7 @@ A Collection of LeetCode problems and my solutions.
 | [2427-first-letter-to-appear-twice](https://github.com/TalupulaVijay/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3379-score-of-a-string](https://github.com/TalupulaVijay/Leetcode/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/TalupulaVijay/Leetcode/tree/master/3396-valid-word) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/TalupulaVijay/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Trie
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A Collection of LeetCode problems and my solutions.
 | [2523-closest-prime-numbers-in-range](https://github.com/TalupulaVijay/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2556-convert-the-temperature](https://github.com/TalupulaVijay/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2614-prime-in-diagonal](https://github.com/TalupulaVijay/Leetcode/tree/master/2614-prime-in-diagonal) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/TalupulaVijay/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/TalupulaVijay/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/TalupulaVijay/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/TalupulaVijay/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -324,6 +326,7 @@ A Collection of LeetCode problems and my solutions.
 | [1929-concatenation-of-array](https://github.com/TalupulaVijay/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/TalupulaVijay/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/TalupulaVijay/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/TalupulaVijay/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -394,6 +397,7 @@ A Collection of LeetCode problems and my solutions.
 | [2491-smallest-even-multiple](https://github.com/TalupulaVijay/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2523-closest-prime-numbers-in-range](https://github.com/TalupulaVijay/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2614-prime-in-diagonal](https://github.com/TalupulaVijay/Leetcode/tree/master/2614-prime-in-diagonal) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/TalupulaVijay/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/TalupulaVijay/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Memoization
 |  |
@@ -581,4 +585,8 @@ A Collection of LeetCode problems and my solutions.
 | ------- |
 | [0204-count-primes](https://github.com/TalupulaVijay/Leetcode/tree/master/0204-count-primes) |
 | [2523-closest-prime-numbers-in-range](https://github.com/TalupulaVijay/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+## Combinatorics
+|  |
+| ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/TalupulaVijay/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
