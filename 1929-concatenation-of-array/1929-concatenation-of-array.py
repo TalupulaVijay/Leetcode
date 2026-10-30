@@ -1,11 +1,10 @@
 class Solution:
     def getConcatenation(self, nums: list[int]) -> list[int]:
-        l=[0]*len(nums)
+        nums1=[0]*len(nums)
         for i in range(len(nums)):
-            l[i]=nums[i]
-        for num in nums:
-            l.append(num)
-        return l        
+            nums1[i]=nums[i]
+        nums1=nums1+nums
+        return nums1           
 
 
         
