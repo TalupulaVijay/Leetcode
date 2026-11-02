@@ -180,6 +180,7 @@ A Collection of LeetCode problems and my solutions.
 | [0953-reverse-only-letters](https://github.com/TalupulaVijay/Leetcode/tree/master/0953-reverse-only-letters) |
 | [0965-unique-email-addresses](https://github.com/TalupulaVijay/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1189-maximum-number-of-balloons](https://github.com/TalupulaVijay/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1678-goal-parser-interpretation](https://github.com/TalupulaVijay/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/TalupulaVijay/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/TalupulaVijay/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/TalupulaVijay/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
