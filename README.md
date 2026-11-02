@@ -151,6 +151,7 @@ A Collection of LeetCode problems and my solutions.
 | [0013-roman-to-integer](https://github.com/TalupulaVijay/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/TalupulaVijay/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TalupulaVijay/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/TalupulaVijay/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/TalupulaVijay/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/TalupulaVijay/Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/TalupulaVijay/Leetcode/tree/master/0205-isomorphic-strings) |
