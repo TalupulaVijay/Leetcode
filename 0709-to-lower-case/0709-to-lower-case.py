@@ -1,4 +1,10 @@
 class Solution:
     def toLowerCase(self, s: str) -> str:
-        return s.lower()
+        k=""
+        for i in s:
+            k+=i.lower()
+        return k    
+
+    
+
         
