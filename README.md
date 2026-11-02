@@ -104,6 +104,7 @@ A Collection of LeetCode problems and my solutions.
 | [0837-most-common-word](https://github.com/TalupulaVijay/Leetcode/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TalupulaVijay/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0965-unique-email-addresses](https://github.com/TalupulaVijay/Leetcode/tree/master/0965-unique-email-addresses) |
+| [1189-maximum-number-of-balloons](https://github.com/TalupulaVijay/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/TalupulaVijay/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -178,6 +179,7 @@ A Collection of LeetCode problems and my solutions.
 | [0920-uncommon-words-from-two-sentences](https://github.com/TalupulaVijay/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/TalupulaVijay/Leetcode/tree/master/0953-reverse-only-letters) |
 | [0965-unique-email-addresses](https://github.com/TalupulaVijay/Leetcode/tree/master/0965-unique-email-addresses) |
+| [1189-maximum-number-of-balloons](https://github.com/TalupulaVijay/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/TalupulaVijay/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/TalupulaVijay/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/TalupulaVijay/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -355,6 +357,7 @@ A Collection of LeetCode problems and my solutions.
 | [0451-sort-characters-by-frequency](https://github.com/TalupulaVijay/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0837-most-common-word](https://github.com/TalupulaVijay/Leetcode/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TalupulaVijay/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1189-maximum-number-of-balloons](https://github.com/TalupulaVijay/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/TalupulaVijay/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/TalupulaVijay/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/TalupulaVijay/Leetcode/tree/master/1512-number-of-good-pairs) |
