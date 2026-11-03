@@ -73,6 +73,7 @@ A Collection of LeetCode problems and my solutions.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TalupulaVijay/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2058-concatenation-of-array](https://github.com/TalupulaVijay/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/TalupulaVijay/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/TalupulaVijay/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/TalupulaVijay/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2540-minimum-common-value](https://github.com/TalupulaVijay/Leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/TalupulaVijay/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -143,6 +144,7 @@ A Collection of LeetCode problems and my solutions.
 | [0953-reverse-only-letters](https://github.com/TalupulaVijay/Leetcode/tree/master/0953-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/TalupulaVijay/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/TalupulaVijay/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/TalupulaVijay/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2481-strictly-palindromic-number](https://github.com/TalupulaVijay/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/TalupulaVijay/Leetcode/tree/master/2540-minimum-common-value) |
 ## String
@@ -189,6 +191,7 @@ A Collection of LeetCode problems and my solutions.
 | [1816-truncate-sentence](https://github.com/TalupulaVijay/Leetcode/tree/master/1816-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/TalupulaVijay/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/TalupulaVijay/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/TalupulaVijay/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/TalupulaVijay/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/TalupulaVijay/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3379-score-of-a-string](https://github.com/TalupulaVijay/Leetcode/tree/master/3379-score-of-a-string) |
