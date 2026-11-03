@@ -68,6 +68,7 @@ A Collection of LeetCode problems and my solutions.
 | [1512-number-of-good-pairs](https://github.com/TalupulaVijay/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/TalupulaVijay/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/TalupulaVijay/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1816-truncate-sentence](https://github.com/TalupulaVijay/Leetcode/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/TalupulaVijay/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TalupulaVijay/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2058-concatenation-of-array](https://github.com/TalupulaVijay/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -185,6 +186,7 @@ A Collection of LeetCode problems and my solutions.
 | [1189-maximum-number-of-balloons](https://github.com/TalupulaVijay/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1678-goal-parser-interpretation](https://github.com/TalupulaVijay/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/TalupulaVijay/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [1816-truncate-sentence](https://github.com/TalupulaVijay/Leetcode/tree/master/1816-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/TalupulaVijay/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/TalupulaVijay/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/TalupulaVijay/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
